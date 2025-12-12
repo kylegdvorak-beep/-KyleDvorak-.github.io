@@ -7,5 +7,5 @@ skills:
 - Injection Molding
 - ISO Tolerance
 - Material Selection
-main-image: Overland_Bracket_Versatile.jpg
+main-image: /Overland_Bracket_Versatile.jpg
 ---
